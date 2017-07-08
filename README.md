@@ -17,4 +17,4 @@ Speed is too slow.
 Animations are too jerky.
 
 
-Need to make its playable on tablet and phones.
+Need to make it playable on tablet and phones.
